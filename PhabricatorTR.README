@@ -1,0 +1,13 @@
+"Top Reviewer" extension for phabricator
+========================================
+
+This extension shows top reviewers in phabricator.
+
+INSTALLATION
+
+copy "PhabricatorTCApplication.php" and "PhabricatorTCController.php" 
+into "/phabricator/src/extensions".
+
+DEPENDENCIES
+
+requires no deps.
